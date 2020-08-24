@@ -25,8 +25,8 @@ git clone https://github.com/sovlookup/PaddleJsInWechat
 ## 修改配置
 
 1. app.js第5行填写云开发code
-2. wxml文件中修改页面，模板只显示样本的name
-3. project.config.json第36行修改你的appid
+2. project.config.json第36行修改你的appid
+3. <可选>pages/detail和pages/gallery的wxml文件中修改页面，模板只显示样本的name
 4. <可选>使用服务器预测功能填写index.js 119行接口地址并修改接口函数
 
 ## 部署模型
