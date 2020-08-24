@@ -1,0 +1,21 @@
+<!--index.wxml-->
+<view class="content" style="background-color:#5fc883">
+    <view class="bt" style="flex:1;background-color:#5fc883">
+        <image id="todo" bindtap="uploadImage" data-url="dongwu" src="/images/bird.png"></image>
+    </view>
+    <mp-halfScreenDialog 
+  bindbuttontap="buttontap"
+  show="{{show}}"
+  maskClosable="{{true}}" 
+  desc="{{useserver ? '正在使用：服务端识别' : '正在使用：移动端识别'}}"
+  tips="{{useserver ? 'powerby于北<805408477@qq.com>' : 'powerby于北<github.com/sovlookup>'}}"
+  title="识别模式" 
+  buttons="{{buttons}}"
+>
+<!-- 使用转载请标明作者 -->
+</mp-halfScreenDialog>
+
+<view class="round-click"  bindtap="open">
+</view>
+
+</view>

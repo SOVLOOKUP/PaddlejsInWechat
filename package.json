@@ -1,0 +1,9 @@
+{
+  "name": "airecognize",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "paddlejs": "^1.0.7"
+  }
+}

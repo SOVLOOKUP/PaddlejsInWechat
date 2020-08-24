@@ -1,0 +1,20 @@
+<view class="page">
+  <scroll-view id="scroll-view_D" scroll-y="true" style="height: 900px" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}"> 
+	<canvas type="2d" id="myCanvas" style="width: 0px; height: 0px;"></canvas>
+    <image class="scroll-view-item_H demo-text-1" id="scroll-sample-object1" src="{{imageurl}}" mode="aspectFill"></image>
+    	<view class="page__bd">
+		<view class="weui-form-preview">
+
+			<view class="weui-form-preview__bd">
+				<view class="weui-form-preview__item">
+					<label class="weui-form-preview__label">名称</label>
+					<text class="weui-form-preview__value">{{birdinfo.name}}</text>
+				</view>
+     </view>
+		 <canvas canvas-id="myCanvas" class="myCanvas"></canvas>
+
+</view>
+    </view>
+  </scroll-view>
+</view>
+<!-- 其他属性以此类推 -->

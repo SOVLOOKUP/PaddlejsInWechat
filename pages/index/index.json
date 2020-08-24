@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "mp-searchbar": "/weui-miniprogram/searchbar/searchbar",
+    "mp-tabbar": "/weui-miniprogram/tabbar/tabbar",
+    "mp-icon": "/weui-miniprogram/icon/icon",
+    "mp-halfScreenDialog": "/weui-miniprogram/half-screen-dialog/half-screen-dialog"
+  },
+    
+  
+  "navigationBarTitleText": "AI识别"
+}
+

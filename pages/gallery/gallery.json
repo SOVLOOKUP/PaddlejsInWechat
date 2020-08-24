@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "mp-searchbar": "/weui-miniprogram/searchbar/searchbar",
+    "mp-tabbar": "/weui-miniprogram/tabbar/tabbar",
+    "mp-icon": "/weui-miniprogram/icon/icon"
+  },
+  "navigationBarTitleText": "识别结果",
+  "navigationStyle":"custom"
+}

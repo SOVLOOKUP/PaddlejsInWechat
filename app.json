@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/gallery/gallery"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#5fc883",
+    "navigationBarTitleText": "AI识别",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "plugins": {
+    "paddlejs-plugin": {
+      "version": "0.0.2",
+      "provider": "wx7138a7bb793608c3"
+    }
+   }
+}
