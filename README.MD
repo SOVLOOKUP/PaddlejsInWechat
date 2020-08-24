@@ -48,5 +48,5 @@ git clone https://github.com/sovlookup/PaddleJsInWechat
 
 # TODO：
 
-1. 优化显示过度动画
-2. 多线程预测
+1. [] 优化显示过度动画
+2. [] 多线程预测
