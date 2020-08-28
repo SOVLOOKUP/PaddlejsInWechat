@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-paddlejs@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.npm.taobao.org/paddlejs/download/paddlejs-1.0.7.tgz#1cfe9fba42252c177788044350fdb1f734d2de2d"
-  integrity sha1-HP6fukIlLBd3iARDUP2x9zTS3i0=
+paddlejs@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.npmjs.org/paddlejs/-/paddlejs-1.0.8.tgz#d9baa7ef14113e16a4b39cdc88bc8893963d7e86"
+  integrity sha512-mS7nwMrwrpE+sP3QFoniAQwwNTQAQYe3W97LnZuvRuipmRt4JGl9XkTNEFYmDxNNRX1F+r0q8LLS4id76yOufA==

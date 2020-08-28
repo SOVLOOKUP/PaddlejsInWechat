@@ -4,6 +4,6 @@
   "main": "dist/index.js",
   "license": "Apache-2.0",
   "dependencies": {
-    "paddlejs": "^1.0.7"
+    "paddlejs": "^1.0.8"
   }
 }
