@@ -27,7 +27,7 @@ git clone https://github.com/sovlookup/PaddleJsInWechat
 1. app.js第5行填写云开发code
 2. project.config.json第36行修改你的appid
 3. <可选>pages/detail和pages/gallery的wxml文件中修改页面，模板只显示样本的name
-4. <可选>使用服务器预测功能填写index.js 119行接口地址并修改接口函数
+4. <可选>使用服务器预测功能填写pages/index/index.js 119行接口地址并修改接口函数
 
 ## 部署模型
 1. 建立两条记录一条为model，记录模型元信息
@@ -39,12 +39,17 @@ git clone https://github.com/sovlookup/PaddleJsInWechat
 |filecount|paddlejs模型分片数|
 |files|模型分片名称|
 |map|模型输出与预测对象的映射|
-|modelurl|模型下载地址|
+|modelurl|模型下载URL地址|
 |name|这个字段不要修改|
 |version|模型版本，小程序每次启动都会检测更新|
 
 1. 一条为parrots，这里放你的识别的物品信息，字段内容除了name可以自行修改
 ![](https://s1.ax1x.com/2020/08/24/ds2mAU.png)
+
+# 注意点：
+
+1. 调试基础库请设置为2.13.1
+2. 
 
 # TODO：
 
