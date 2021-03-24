@@ -14,6 +14,7 @@
 2. 开通云开发，并获得云开发code
 3. 准备好你的paddlejs模型
 
+模型训练教程https://aistudio.baidu.com/aistudio/projectdetail/807809
 
 # 部署流程
 
