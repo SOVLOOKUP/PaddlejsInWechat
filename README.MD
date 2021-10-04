@@ -44,7 +44,7 @@ git clone https://github.com/sovlookup/PaddleJsInWechat
 |name|这个字段不要修改|
 |version|模型版本，小程序每次启动都会检测更新|
 
-1. 一条为parrots，这里放你的识别的物品信息，字段内容除了name可以自行修改
+1. 一条为parrots，这里放你的识别的物品信息，字段结构除了name可以自行修改
 ![](https://s1.ax1x.com/2020/08/24/ds2mAU.png)
 
 # 注意点：
