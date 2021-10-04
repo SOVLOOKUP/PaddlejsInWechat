@@ -58,5 +58,4 @@ git clone https://github.com/sovlookup/PaddleJsInWechat
 
 # 开源协议
 
-MIT LICENSE   
-Copyright (c) 2020 SOVLOOKUP
+MIT LICENSE
