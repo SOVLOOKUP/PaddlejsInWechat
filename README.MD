@@ -49,13 +49,12 @@ git clone https://github.com/sovlookup/PaddleJsInWechat
 
 # 注意点：
 
-1. 调试基础库请设置为2.13.1
-2. 
+1. 调试基础库版本 >= 2.13.1
 
 # TODO：
 
 1. [ ] 优化显示过度动画
-2. [ ] 多线程预测
+2. [ ] worker 预测
 
 # 开源协议
 
